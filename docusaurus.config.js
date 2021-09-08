@@ -5,8 +5,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Lrvinye",
   tagline: "World Peace & Love",
-  url: "http://lrvinye.cn",
-  baseUrl: "/blog/",
+  url: "http://blog.lrvinye.cn",
+  baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
